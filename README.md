@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @longcodebad
 - 👀 I’m interested in Science and Technology
-- 🌱 I’m currently learning to code. I have a background of coding for 2 year but no experiences 
+- 🌱 I’m currently learning to code. I have a background of coding for 2 year but no real work experiences 
 - 💞️ I’m looking to collaborate on any web, webapps, application or simple api and java
 - 📫 How to reach me longcodebad@gmail.com
 
