@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @longcodebad
 - 👀 I’m interested in Science and Technology
-- 🌱 I’m currently learning to code. I have a background of coding for 2 year but no real work experiences 
-- 💞️ I’m looking to collaborate on any web, webapps, application or simple api and java
+- 🌱 I’m currently learning to code. I have a background of coding for 2 year with 4 month intern work experiences from [MonsterGameStudio](https://imosys.net/).
+- 💞️ I’m looking to learn to build games whenther its 2D/3D cross platform, Android and more
 - 📫 How to reach me longcodebad@gmail.com
 
 <!---
