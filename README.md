@@ -10,7 +10,7 @@
 
 💡 Eager to explore and contribute to innovative projects in the gaming world
 
-📫 Reach out to me at longcodebad@gmail.com or let's connect on [LinkedIn](your-linkedin-profile)!
+📫 Reach out to me at longcodebad@gmail.com or let's connect on [LinkedIn](https://www.linkedin.com/in/long-tran-kim-b2a438203/)!
 
 📊 Check out my latest game projects and coding adventures below 👇
 <!---
